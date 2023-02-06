@@ -528,6 +528,35 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
     text-transform: uppercase;
 }
 
+#social-media {
+    width: 16em;
+    margin: auto;
+    margin-bottom: 2em;
+}
+#social-media img {
+    width: 4em;
+    height: 4em;
+    opacity: 0.9;
+}
+#social-media img:hover {
+    opacity: 1;
+}
+.social-media-img {
+    width: 24px;
+    text-align: center;
+    display: inline;
+}
+
+
+
+
+
+
+
+
+
+
+
 /* Contact form */
 #contact_form {
     background: #d7d7d7 none repeat scroll 0 0;
